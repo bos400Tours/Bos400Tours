@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Bos400Tours
+we supply adventure tours
+R1200
+
+##
+Check this out
+
 <!--
 **bos400Tours/Bos400Tours** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
